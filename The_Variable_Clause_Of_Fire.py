@@ -1,6 +1,6 @@
 #The variable clause of fire
 
-#A cryptic book about variables, context and variables
+#A cryptic book about context and variables
 
 #Requirements
 #Python 3.6
